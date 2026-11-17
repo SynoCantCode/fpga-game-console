@@ -52,6 +52,6 @@ Each one has a test folder with test benches. The language and controller folder
 
 ## Notes
 
-AI helped with this project.
+AI Aided Project
 
 Gowin's own files (the CPU, the DDR3 controller and the PLLs) are not included so it will not build straight from this repo.
